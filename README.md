@@ -50,10 +50,8 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Software
--[]()
--[]()
--[]()
--[]()
+- [بىلكان ئەپ بازار]()http://bazar.bilkan.net/Home.aspx
+- [ئوكيان يۇمشاق دېتال سالونى](http://www.okyan.com/index.php?m=content&c=index&a=lists&catid=34)
 -[]()
 -[]()
 -[]()
@@ -62,9 +60,8 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Yellow Pages
--[]()
--[]()
--[]()
+- [ulinix.cn](http://ulinix.cn/)
+- [ulinix.com](http://ulinix.com/)
 -[]()
 -[]()
 -[]()
@@ -75,9 +72,9 @@ Awesome Web Sites in Uyghur Language
 
 ## Tools
 - [ئۇ ي د ئى ت تەجىربىخانىسى](http://lab.uyghurdev.net/)
--[ئۇيغۇر سوفت تور لۇغىتى](http://www.udict.cn/ug-CN/default.aspx)
--[ئوكيان لۇغىتى](http://dict.okyan.com/)
--[]()
+- [ئۇيغۇر سوفت تور لۇغىتى](http://www.udict.cn/ug-CN/default.aspx)
+- [ئوكيان لۇغىتى](http://dict.okyan.com/)
+- [ئۇيغۇر كىشى ئىسىملىرى](http://www.okyan.com/index.php?m=content&c=index&a=lists&catid=129)
 -[]()
 -[]()
 -[]()
