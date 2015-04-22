@@ -2,12 +2,12 @@
 Awesome Web Sites in Uyghur Language
 
 ## News
--[](http://www.erqal.com/)
--[](http://www.okyan.com/)
--[](http://www.nur.cn/)
--[](http://www.uycnr.com/)
--[](http://uy.ts.cn/)
--[]()
+-[ئەرقال](http://www.erqal.com/)
+-[ئوكيان](http://www.okyan.com/)
+-[نۇر](http://www.nur.cn/)
+-[خەلق رادىئوسى](http://www.uycnr.com/)
+-[تەڭرىتاغ](http://uy.ts.cn/)
+-[خەلق تورى](http://uyghur.people.com.cn/)
 -[]()
 -[]()
 -[]()
