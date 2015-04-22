@@ -17,7 +17,6 @@ Awesome Web Sites in Uyghur Language
 ## Forums
 - [ئىزدىنىش](http://www.izdinix.com/)
 - [باغداش](http://bagdax.cn/)
-- []()
 - [مىسرانىم](http://www.misranim.com/)
 - [ئەلكۈيى](http://www.alkuyi.com/)
 -[]()
@@ -28,11 +27,11 @@ Awesome Web Sites in Uyghur Language
 
 ## Blogs
 - [سارۋان بىلوگى](http://www.elierkin.com/blog/)
--[]()
--[]()
--[]()
--[]()
--[]()
+- [تورخۇمار](http://www.torhumar.com/)
+- [ئالىم ئەھەت بىلوگى](http://www.alimahat.com/)
+- [بىلگەجان بىلوگى](http://bilge.eldawa.com/)
+- [كۆكلەن](https://www.koklen.net/ug-CN/)
+- [ئەلداۋا بىلوگى](http://eldawa.com/)
 -[]()
 -[]()
 -[]()
@@ -76,8 +75,8 @@ Awesome Web Sites in Uyghur Language
 
 ## Tools
 - [ئۇ ي د ئى ت تەجىربىخانىسى](http://lab.uyghurdev.net/)
--[]()
--[]()
+-[ئۇيغۇر سوفت تور لۇغىتى](http://www.udict.cn/ug-CN/default.aspx)
+-[ئوكيان لۇغىتى](http://dict.okyan.com/)
 -[]()
 -[]()
 -[]()
