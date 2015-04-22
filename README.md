@@ -9,17 +9,17 @@ Awesome Web Sites in Uyghur Language
 - [تەڭرىتاغ](http://uy.ts.cn/)
 - [خەلق تورى](http://uyghur.people.com.cn/)
 - [شىنخۇا تورى](http://uyghur.news.cn/)
--[]()
+- [شىنجاڭ رادىئو تورى](http://uygur.chinabroadcast.cn/)
 -[]()
 -[]()
 -[]()
 
 ## Forums
--[]()
--[]()
--[]()
--[]()
--[]()
+- [](http://www.izdinix.com/)
+- [](http://bagdax.cn/)
+- []()
+- [](http://www.misranim.com/)
+- [](http://www.alkuyi.com/)
 -[]()
 -[]()
 -[]()
@@ -75,7 +75,7 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Tools
--[]()
+-[](http://lab.uyghurdev.net/)
 -[]()
 -[]()
 -[]()
@@ -87,9 +87,9 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Video/TV
--[]()
--[]()
--[]()
+- [شىنجاڭ تېلېۋىزىيەسى](http://www.xjtvs.com.cn/uyghur/)
+- [CCTV](http://uyghur.cntv.cn/)
+- [كۆۋرۈك](http://kowruk.cn/)
 -[]()
 -[]()
 -[]()
