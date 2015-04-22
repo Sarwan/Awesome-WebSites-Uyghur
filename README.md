@@ -96,3 +96,6 @@ Awesome Web Sites in Uyghur Language
 -[]()
 -[]()
 -[]()
+
+## Wiki
+- [ئوكيان قامۇسى](http://qamus.okyan.com/)
