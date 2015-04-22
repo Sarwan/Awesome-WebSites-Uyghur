@@ -2,10 +2,11 @@
 Awesome Web Sites in Uyghur Language
 
 ## News
--[]()
--[]()
--[]()
--[]()
+-[](http://www.erqal.com/)
+-[](http://www.okyan.com/)
+-[](http://www.nur.cn/)
+-[](http://www.uycnr.com/)
+-[](http://uy.ts.cn/)
 -[]()
 -[]()
 -[]()
@@ -26,7 +27,7 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Blogs
--[]()
+-[Sarwan Blog's](http://www.elierkin.com/blog/)
 -[]()
 -[]()
 -[]()
