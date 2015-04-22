@@ -38,8 +38,8 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Social Networks
--[]()
--[]()
+- [گۈدۈك](http://www.guduk.com/)
+- [ئەلكۈيى مىكرو بىلوگى](http://alkuyi.cn/)
 -[]()
 -[]()
 -[]()
