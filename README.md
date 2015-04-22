@@ -15,11 +15,11 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Forums
-- [](http://www.izdinix.com/)
-- [](http://bagdax.cn/)
+- [ئىزدىنىش](http://www.izdinix.com/)
+- [باغداش](http://bagdax.cn/)
 - []()
-- [](http://www.misranim.com/)
-- [](http://www.alkuyi.com/)
+- [مىسرانىم](http://www.misranim.com/)
+- [ئەلكۈيى](http://www.alkuyi.com/)
 -[]()
 -[]()
 -[]()
@@ -27,7 +27,7 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Blogs
--[Sarwan Blog's](http://www.elierkin.com/blog/)
+- [سارۋان بىلوگى](http://www.elierkin.com/blog/)
 -[]()
 -[]()
 -[]()
@@ -75,7 +75,7 @@ Awesome Web Sites in Uyghur Language
 -[]()
 
 ## Tools
--[](http://lab.uyghurdev.net/)
+- [ئۇ ي د ئى ت تەجىربىخانىسى](http://lab.uyghurdev.net/)
 -[]()
 -[]()
 -[]()
