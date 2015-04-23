@@ -50,6 +50,7 @@ Awesome Web Sites in Uyghur Language
 - [ئۇيغۇر كىشى ئىسىملىرى](http://www.okyan.com/index.php?m=content&c=index&a=lists&catid=129)
 - [ئىملا تەكشۈرگۈچ](http://imla.uyghurdev.net/)
 - [PrayerTime](http://lab.uyghurdev.net/PrayerTime/)
+- [Uyghur script converter](http://www.nyu.edu/cgi-bin/cgiwrap/spa268/uyghurscript.pl)
 
 
 ## Video/TV
