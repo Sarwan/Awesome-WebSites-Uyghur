@@ -36,7 +36,7 @@ Awesome Web Sites in Uyghur Language
 ## Software
 - [بىلكان ئەپ بازار](http://bazar.bilkan.net/Home.aspx)
 - [ئوكيان يۇمشاق دېتال سالونى](http://www.okyan.com/index.php?m=content&c=index&a=lists&catid=34)
-
+- [ئوتقاش ئەپ بازىرى](http://www.otkax.com/)
 
 ## Yellow Pages
 - [ulinix.cn](http://ulinix.cn/)
@@ -61,3 +61,4 @@ Awesome Web Sites in Uyghur Language
 
 ## Wiki
 - [ئوكيان قامۇسى](http://qamus.okyan.com/)
+
