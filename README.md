@@ -20,7 +20,6 @@ Awesome Web Sites in Uyghur Language
 
 
 ## Blogs
-- [سارۋان بىلوگى](http://www.elierkin.com/blog/)
 - [تورخۇمار](http://www.torhumar.com/)
 - [ئالىم ئەھەت بىلوگى](http://www.alimahat.com/)
 - [بىلگەجان بىلوگى](http://bilge.eldawa.com/)
@@ -49,7 +48,6 @@ Awesome Web Sites in Uyghur Language
 - [ئوكيان لۇغىتى](http://dict.okyan.com/)
 - [ئۇيغۇر كىشى ئىسىملىرى](http://www.okyan.com/index.php?m=content&c=index&a=lists&catid=129)
 - [ئىملا تەكشۈرگۈچ](http://imla.uyghurdev.net/)
-- [PrayerTime](http://lab.uyghurdev.net/PrayerTime/)
 - [Uyghur script converter](http://www.nyu.edu/cgi-bin/cgiwrap/spa268/uyghurscript.pl)
 
 
